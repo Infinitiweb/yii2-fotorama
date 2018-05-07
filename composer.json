@@ -1,5 +1,5 @@
 {
-  "name": "infinitiweb/fotorama",
+  "name": "infinitiweb/yii2-fotorama",
   "description": "Fotorama widget for Yii2",
   "type": "library",
   "keywords": [
@@ -8,8 +8,8 @@
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/infinitiweb/kak-fotorama/issues?state=open",
-    "source": "https://github.com/infinitiweb/kak-fotorama"
+    "issues": "https://github.com/infinitiweb/yii2-fotorama/issues?state=open",
+    "source": "https://github.com/infinitiweb/yii2-fotorama"
   },
   "authors": [
     {
@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "infinitiweb\\widgets\\fotorama\\": ""
+      "infinitiweb\\widgets\\yii2-fotorama\\": ""
     }
   }
 }

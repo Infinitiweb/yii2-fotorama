@@ -1,0 +1,30 @@
+{
+  "name": "kak/fotorama",
+  "description": "Fotorama widget for Yii2",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "fotorama"
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/Infinitiweb/kak-fotorama/issues?state=open",
+    "source": "https://github.com/Infinitiweb/kak-fotorama"
+  },
+  "authors": [
+    {
+      "name": "Tutik Alexsandr",
+      "email": "sanchezzzhak@ya.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "yiisoft/yii2": ">=2.0.12",
+    "bower-asset/fotorama": "4.6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "kak\\widgets\\fotorama\\": ""
+    }
+  }
+}

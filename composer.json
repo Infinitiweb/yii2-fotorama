@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "infinitiweb\\widgets\\yii2-fotorama\\": ""
+      "infinitiweb\\widgets\\yii2\\fotorama\\": ""
     }
   }
 }

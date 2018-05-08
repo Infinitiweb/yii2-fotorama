@@ -1,6 +1,6 @@
 <?php
 
-namespace infinitiweb\widgets\fotorama;
+namespace infinitiweb\widgets\yii2\fotorama;
 
 
 use yii\base\Widget;
